@@ -1,0 +1,1 @@
+git checkout - Switch branches or restore working tree files.
