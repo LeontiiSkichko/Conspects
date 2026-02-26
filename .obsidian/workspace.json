@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Git/git commands/git push.md",
+                "file": "DevOps/Git/SemVer/x.1.x MINOR version.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git push"
+              "title": "x.1.x MINOR version"
             }
           }
         ]
@@ -194,12 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1ddd8df0f531509",
+  "active": "6d4a6b92a3a24fb4",
   "lastOpenFiles": [
+    "DevOps/Git/SemVer/x.1.x MINOR version.md",
+    "conflict-files-obsidian-git.md",
+    "DevOps/Git/SemVer/1.x.x MAJOR version.md",
+    "DevOps/Git/git commands/git push.md",
     "DevOps/Git/git commands/git commit.md",
     "DevOps/Git/SemVer/x.x.1 PATCH version.md",
-    "DevOps/Git/SemVer/x.1.x MINOR version.md",
-    "DevOps/Git/SemVer/1.x.x MAJOR version.md",
     "DevOps/Git/Flows/Truck-Based.md",
     "DevOps/Git/SemVer",
     "DevOps/Git/Flows",
@@ -213,7 +215,6 @@
     "DevOps/Git/git commands/git clone.md",
     "DevOps/Git/git commands/git init.md",
     "DevOps/Git/git commands/git add.md",
-    "DevOps/Git/git commands/git push.md",
     "DevOps/Git/git commands/git pull.md",
     "DevOps/Git/git commands/git merge.md",
     "DevOps/Git/git commands/git rebase.md",
