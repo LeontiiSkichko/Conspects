@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Git/Truck-Based.md",
+                "file": "DevOps/Git/git commands/git commit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Truck-Based"
+              "title": "git commit"
             }
           }
         ]
@@ -196,22 +196,29 @@
   },
   "active": "f1ddd8df0f531509",
   "lastOpenFiles": [
-    "DevOps/Git/git revert.md",
-    "DevOps/Git/GitHub Flow.md",
-    "DevOps/Git/Truck-Based.md",
+    "DevOps/Git/SemVer/x.x.1 PATCH version.md",
+    "DevOps/Git/SemVer/x.1.x MINOR version.md",
+    "DevOps/Git/SemVer/1.x.x MAJOR version.md",
+    "DevOps/Git/Flows/Truck-Based.md",
+    "DevOps/Git/SemVer",
+    "DevOps/Git/Flows",
+    "DevOps/Git/git commands",
+    "DevOps/Git/Без названия.md",
+    "DevOps/Git/git commands/git revert.md",
+    "DevOps/Git/Flows/GitHub Flow.md",
     "Без названия.base",
-    "DevOps/Git/GitLab Flow.md",
-    "DevOps/Git/Git Flow.md",
-    "DevOps/Git/git clone.md",
-    "DevOps/Git/git init.md",
-    "DevOps/Git/git add.md",
-    "DevOps/Git/git commit.md",
-    "DevOps/Git/git push.md",
-    "DevOps/Git/git pull.md",
-    "DevOps/Git/git merge.md",
-    "DevOps/Git/git rebase.md",
-    "DevOps/Git/git fetch.md",
-    "DevOps/Git/git diff.md",
+    "DevOps/Git/Flows/GitLab Flow.md",
+    "DevOps/Git/Flows/Git Flow.md",
+    "DevOps/Git/git commands/git clone.md",
+    "DevOps/Git/git commands/git init.md",
+    "DevOps/Git/git commands/git add.md",
+    "DevOps/Git/git commands/git commit.md",
+    "DevOps/Git/git commands/git push.md",
+    "DevOps/Git/git commands/git pull.md",
+    "DevOps/Git/git commands/git merge.md",
+    "DevOps/Git/git commands/git rebase.md",
+    "DevOps/Git/git commands/git fetch.md",
+    "DevOps/Git/git commands/git diff.md",
     "Фундамент труда/Программа.md",
     "DevOps/Git",
     "DevOps/Фундамент труда/Правила.md"
