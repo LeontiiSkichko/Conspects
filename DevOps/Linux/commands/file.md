@@ -1,0 +1,1 @@
+The **file** command is used to **determine the type of a file**. It examines the file's content (specifically its 'magic numbers') rather than just looking at its file extension to identify what kind of data it contains.

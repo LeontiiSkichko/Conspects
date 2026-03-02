@@ -1,0 +1,1 @@
+The **stat** command displays **detailed information** about a file or file system. It provides metadata such as file size, permissions (octal and symbolic), Inode number, and exact timestamps for access, modification, and changes.

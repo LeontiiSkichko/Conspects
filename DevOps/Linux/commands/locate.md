@@ -1,0 +1,1 @@
+The **locate** command is a utility for **finding files by name** quickly. Unlike `find`, it searches through a **pre-built database** (mlocate) rather than scanning the live file system, making it nearly instantaneous.

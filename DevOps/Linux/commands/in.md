@@ -1,0 +1,1 @@
+The **ln** command is used to create **links** between files. It allows you to create **hard links** (fixed connections) or **symbolic links** (shortcuts/aliases) to a source file or directory.

@@ -1,0 +1,1 @@
+The **tree** command is a recursive directory listing program that produces a **depth-indented listing of files**, effectively displaying the folder structure as a visual tree.

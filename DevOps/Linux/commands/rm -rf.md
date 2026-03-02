@@ -1,0 +1,1 @@
+**rm -rf** command is used to **permanently and forcibly delete** a directory and all of its contents without any user interaction.
