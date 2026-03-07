@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a754ea95d556b032",
+        "id": "bb9fa72575da48c6",
         "type": "tabs",
         "children": [
           {
-            "id": "9d4f01bcc0b30fd8",
+            "id": "ed62f3776c00b9ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Linux/commands/file.md",
+                "file": "DevOps/Linux/Vim/file.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,15 +194,16 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "9d4f01bcc0b30fd8",
+  "active": "ed62f3776c00b9ed",
   "lastOpenFiles": [
-    "DevOps/Linux/commands/stat.md",
-    "DevOps/Linux/commands/file.md",
-    "DevOps/Linux/commands/in.md",
-    "DevOps/Linux/commands/tree.md",
-    "DevOps/Linux/commands/locate.md",
+    "DevOps/Linux/Vim/stat.md",
+    "DevOps/Linux/Vim/in.md",
+    "DevOps/Linux/Vim/tree.md",
+    "DevOps/Linux/Vim/locate.md",
+    "DevOps/Linux/Vim/find.md",
+    "DevOps/Linux/Vim",
+    "DevOps/Linux/Vim/file.md",
     "DevOps/Linux/commands/cd.md",
-    "DevOps/Linux/commands/find.md",
     "DevOps/Linux/commands/chmod.md",
     "DevOps/Linux/commands/touch.md",
     "DevOps/Linux/commands/vim.md",
@@ -227,7 +228,6 @@
     "DevOps/Git/Flows",
     "DevOps/Git/commands",
     "DevOps/Git/Без названия.md",
-    "DevOps/Git/commands/git revert.md",
     "Без названия.base",
     "DevOps/Git"
   ]
