@@ -1,0 +1,1 @@
+- **stdin (0):** Standard input. What the program receives (usually from the keyboard).

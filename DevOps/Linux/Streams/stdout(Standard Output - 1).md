@@ -1,0 +1,1 @@
+- **stdout (1):** Standard output. Where the program writes results (usually to the screen).

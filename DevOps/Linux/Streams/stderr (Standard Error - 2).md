@@ -1,0 +1,1 @@
+- **stderr (2):** Standard errors. A separate channel for crash messages (also to the screen).

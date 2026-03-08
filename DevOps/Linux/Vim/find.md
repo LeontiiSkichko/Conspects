@@ -1,1 +1,0 @@
-The **find** command is a utility used to **search for files and directories** in a directory hierarchy based on user-specified expressions.
