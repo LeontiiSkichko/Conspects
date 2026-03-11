@@ -1,0 +1,1 @@
+**Force kill** (SIGKILL). This kills the process immediately. Use this only if the program is frozen and won't respond to a normal.
