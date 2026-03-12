@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Linux/SystemD/Отличия от SystemD.md",
+                "file": "DevOps/Linux/SystemD/Unit file.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Отличия от SystemD"
+              "title": "Unit file"
             }
           }
         ]
@@ -196,7 +196,10 @@
   },
   "active": "07b8a525352699d9",
   "lastOpenFiles": [
+    "DevOps/Linux/SystemD/Отличия от SystemD.md",
+    "DevOps/Linux/SystemD/Unit file.md",
     "DevOps/Linux/SystemD/Что это?.md",
+    "DevOps/Linux/proc.md",
     "DevOps/Linux/Streams/stdout(Standard Output - 1).md",
     "DevOps/Linux/Streams/stdin(Standard Input - 0).md",
     "DevOps/Linux/Streams/stderr (Standard Error - 2).md",
@@ -214,8 +217,6 @@
     "DevOps/Linux/basic commands/commands/rm -rf.md",
     "DevOps/Linux/basic commands/commands/mkdir.md",
     "DevOps/Linux/basic commands/commands/ps aux.md",
-    "DevOps/Linux/proc.md",
-    "DevOps/Linux/SystemD/Отличия от SystemD.md",
     "DevOps/Linux/f.md",
     "DevOps/Linux/SystemD",
     "DevOps/Linux/Без названия.md",
@@ -227,7 +228,6 @@
     "DevOps/Linux/basic commands",
     "DevOps/Linux/Pipe",
     "DevOps/Linux/basic commands/Redirection",
-    "DevOps/Linux/Vim/commands ..ls ..buffers.md",
     "DevOps/Linux/Streams",
     "DevOps/Linux/Vim",
     "DevOps/Linux/basic commands/commands",
