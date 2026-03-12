@@ -1,1 +1,1 @@
-**cd** command is used to change the current working directory in the command line interface.
+Команда **cd** используется для смены текущего рабочего каталога в интерфейсе командной строки.

@@ -1,1 +1,1 @@
-- Adds `stdout` to the end of a file without deleting the old content.
+- Добавляет `stdout` в конец файла, не удаляя старое содержимое.

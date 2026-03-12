@@ -1,3 +1,2 @@
-Takes the `stdout` of the left command and passes it as the `stdin` for the right one. This allows building chains.
-
-- _Example:_ `cat logs.txt | grep "Error"` (read the file and immediately filter lines with the word "Error").
+Принимает вывод `stdout` левой команды и передает его в качестве вывода `stdin` для правой. Это позволяет создавать цепочки.
+- _Пример:_ `cat logs.txt | grep "Error"` (читает файл и сразу же фильтрует строки со словом "Error").

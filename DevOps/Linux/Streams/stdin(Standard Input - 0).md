@@ -1,1 +1,1 @@
-- **stdin (0):** Standard input. What the program receives (usually from the keyboard).
+**stdin (0):** Стандартный ввод. То, что получает программа (обычно с клавиатуры).

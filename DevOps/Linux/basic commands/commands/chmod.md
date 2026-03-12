@@ -1,5 +1,6 @@
-**chmod** command is used to **change the file system permissions** of files and directories. It determines who can **read**, **write**, or **execute** a file.
+Команда `chmod` используется для изменения прав доступа к файлам и каталогам в файловой системе. Она определяет, кто может читать, записывать или выполнять файл.
 
-- `chmod +x script.sh` — Makes a file **executable** 
-- `chmod u+w file.txt` — Gives the **owner** permission to **write** to the file.
-- `chmod a-r file.txt` — Removes **read** permission from **everyone**.
+- `chmod +x script.sh` — Делает файл исполняемым.
+- `chmod u+w file.txt` — Предоставляет владельцу разрешение на запись в файл.
+
+- `chmod a-r file.txt` — Удаляет разрешение на чтение у всех пользователей.

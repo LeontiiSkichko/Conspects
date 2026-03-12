@@ -1,1 +1,1 @@
-- **stdout (1):** Standard output. Where the program writes results (usually to the screen).
+**stdout (1):** Стандартный вывод. Где программа записывает результаты (обычно на экран).

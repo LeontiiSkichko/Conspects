@@ -1,6 +1,9 @@
-The command **`ps aux`** is a standard tool used in Linux and Unix-like systems to display a snapshot of all currently running processes.
+Команда `ps aux` — это стандартный инструмент, используемый в Linux и Unix-подобных системах для отображения снимка всех запущенных в данный момент процессов.
 
-- **`ps`**: Stands for "Process Status."
-- **`a`**: Shows processes for **all** users.
-- **`u`**: Displays the output in a **user-oriented** format (showing detailed info like CPU and memory usage).
-- **`x`**: Includes processes that are **not attached** to a terminal (like background services or daemons).
+— `ps`: означает «Состояние процесса».
+
+— `a`: показывает процессы для **всех** пользователей.
+
+— `u`: отображает вывод в **ориентированном на пользователя** формате (показывает подробную информацию, такую ​​как использование ЦП и памяти).
+
+— `x`: включает процессы, **не подключенные** к терминалу (например, фоновые службы или демоны).

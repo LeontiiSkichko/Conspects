@@ -1,1 +1,0 @@
-**PID** stands for **Process IDentifier**. It is a unique numerical ID assigned by the Linux kernel to every active process.

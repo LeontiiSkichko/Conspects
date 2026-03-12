@@ -1,1 +1,0 @@
-In Linux, **/proc** is a **virtual** file system. It does not exist on your disk; it exists in your **RAM**.

@@ -1,1 +1,1 @@
-- **stderr (2):** Standard errors. A separate channel for crash messages (also to the screen).
+**stderr (2):** Стандартные ошибки. Отдельный канал для сообщений о сбоях (также на экран).

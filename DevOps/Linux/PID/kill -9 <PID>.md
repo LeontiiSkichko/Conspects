@@ -1,1 +1,1 @@
-**Force kill** (SIGKILL). This kills the process immediately. Use this only if the program is frozen and won't respond to a normal.
+**Принудительное завершение** (SIGKILL). Эта команда немедленно завершает процесс. Используй её только в том случае, если программа зависла и не реагирует на обычные команды.

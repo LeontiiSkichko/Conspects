@@ -1,1 +1,1 @@
-When you run `kill <PID>`, you are sending a **signal** to that process to stop. By default, it uses **SIGTERM** (Signal 15), which asks the program to close "politely".
+При выполнении команды `kill <PID>` отправляет **сигнал** этому процессу с просьбой остановиться. По умолчанию используется **SIGTERM** (сигнал 15).

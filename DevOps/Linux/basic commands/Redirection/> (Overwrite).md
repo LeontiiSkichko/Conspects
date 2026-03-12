@@ -1,3 +1,3 @@
-Writes `stdout` to a file, completely erasing its old content.
+Выводит результат в стандартный поток вывода (stdout) в файл, полностью удаляя его старое содержимое.
 
-- _Example:_ `ls > files.txt` (the file list will go into the text file).
+- Пример: `ls > files.txt` (список файлов будет записан в текстовый файл).
