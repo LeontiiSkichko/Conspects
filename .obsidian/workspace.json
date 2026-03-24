@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Docker/Dockerfile.md",
+                "file": "DevOps/Linux/commands/ls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dockerfile"
+              "title": "ls"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Размер",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,10 +194,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "c48b6d1fcfc61dc4",
+  "active": "07b8a525352699d9",
   "lastOpenFiles": [
-    "DevOps/Linux/Processes/SystemD/Unit file.md",
+    "DevOps/Linux/commands/cd.md",
+    "DevOps/Linux/commands/ls.md",
     "DevOps/Docker/Dockerfile.md",
+    "DevOps/Linux/Processes/SystemD/Unit file.md",
     "DevOps/Docker",
     "DevOps/Linux/Processes/Сигналы.md",
     "DevOps/Linux/Processes/htop.md",
@@ -222,10 +223,8 @@
     "DevOps/Linux/Processes/PID/Что это?.md",
     "Фундамент труда/Программа.md",
     "DevOps/Linux/commands/chmod.md",
-    "DevOps/Linux/commands/cd.md",
     "DevOps/Linux/Streams/Redirection/2>&1.md",
     "DevOps/Linux/Streams/Redirection/>> (Append).md",
-    "DevOps/Linux/Streams/Redirection/> (Overwrite).md",
     "DevOps/Linux/Processes/SystemD",
     "DevOps/Linux/Processes/SystemD",
     "DevOps/Linux/Processes/PID",
