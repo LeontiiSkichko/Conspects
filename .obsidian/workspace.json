@@ -74,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +195,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "07b8a525352699d9",
+  "active": "c48b6d1fcfc61dc4",
   "lastOpenFiles": [
     "DevOps/Linux/commands/cd.md",
     "DevOps/Linux/commands/ls.md",
