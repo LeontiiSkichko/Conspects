@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Linux/commands/ls.md",
+                "file": "DevOps/Linux/commands/less.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ls"
+              "title": "less"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,10 +194,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "c48b6d1fcfc61dc4",
+  "active": "07b8a525352699d9",
   "lastOpenFiles": [
-    "DevOps/Linux/commands/cd.md",
+    "DevOps/Linux/commands/file.md",
+    "DevOps/Linux/commands/less.md",
     "DevOps/Linux/commands/ls.md",
+    "DevOps/Linux/commands/cd.md",
     "DevOps/Docker/Dockerfile.md",
     "DevOps/Linux/Processes/SystemD/Unit file.md",
     "DevOps/Docker",
@@ -224,8 +225,6 @@
     "DevOps/Linux/Processes/PID/Что это?.md",
     "Фундамент труда/Программа.md",
     "DevOps/Linux/commands/chmod.md",
-    "DevOps/Linux/Streams/Redirection/2>&1.md",
-    "DevOps/Linux/Streams/Redirection/>> (Append).md",
     "DevOps/Linux/Processes/SystemD",
     "DevOps/Linux/Processes/SystemD",
     "DevOps/Linux/Processes/PID",
