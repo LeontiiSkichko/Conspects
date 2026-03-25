@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Linux/commands/less.md",
+                "file": "DevOps/Linux/Структура Файловой системы Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "less"
+              "title": "Структура Файловой системы Linux"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "07b8a525352699d9",
   "lastOpenFiles": [
-    "DevOps/Linux/commands/file.md",
     "DevOps/Linux/commands/less.md",
+    "DevOps/Linux/Структура Файловой системы Linux.md",
+    "DevOps/Linux/commands/file.md",
     "DevOps/Linux/commands/ls.md",
     "DevOps/Linux/commands/cd.md",
     "DevOps/Docker/Dockerfile.md",
@@ -213,7 +214,6 @@
     "Без названия.md",
     "DevOps/Linux/Processes/OOM Killer/Что это?.md",
     "DevOps/Linux/Processes/OOM Killer",
-    "DevOps/Linux/Без названия.md",
     "DevOps/Linux/Processes/SystemD/Отличия от SystemD.md",
     "DevOps/Linux/Processes/SystemD/Что это?.md",
     "DevOps/Linux/Streams/stdout(Standard Output - 1).md",
