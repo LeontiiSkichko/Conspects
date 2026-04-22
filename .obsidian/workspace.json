@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Linux/Структура Файловой системы Linux.md",
+                "file": "DevOps/Linux/commands/lsof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Структура Файловой системы Linux"
+              "title": "lsof"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "07b8a525352699d9",
   "lastOpenFiles": [
-    "DevOps/Linux/commands/less.md",
     "DevOps/Linux/Структура Файловой системы Linux.md",
+    "DevOps/Linux/commands/lsof.md",
+    "DevOps/Linux/commands/less.md",
     "DevOps/Linux/commands/file.md",
     "DevOps/Linux/commands/ls.md",
     "DevOps/Linux/commands/cd.md",
@@ -224,7 +225,6 @@
     "DevOps/Linux/Processes/PID/kill -9 <PID>.md",
     "DevOps/Linux/Processes/PID/Что это?.md",
     "Фундамент труда/Программа.md",
-    "DevOps/Linux/commands/chmod.md",
     "DevOps/Linux/Processes/SystemD",
     "DevOps/Linux/Processes/SystemD",
     "DevOps/Linux/Processes/PID",
